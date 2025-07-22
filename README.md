@@ -50,11 +50,11 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 - 💊 **PillPal**  
   A mobile app to manage medicine schedules with reminders, caregiver alerts, and medical reports — helping users stay on track with treatment.
 
-- 📍 **Parking & Transport Guide App (Idea)**  
-  Designed to make commuting in Egypt easier by showing nearby parking and public transport options in real-time.
+- 🧠 Mental Bubbles App
+A self-reflection tool that helps users explore the roles they play in life, uncover hidden "masks," and track personal growth through deep, structured questions.
 
-- 🐾 **Lost Pet Finder Platform**  
-  A centralized system to help reunite lost pets with their owners — more effective than traditional methods.
+- 👥 HR Management Website
+A full-featured web platform built with PHP, HTML, CSS, and JavaScript to manage employee records, salaries, and attendance — helping businesses streamline their HR processes efficiently.
 
 ---
 
