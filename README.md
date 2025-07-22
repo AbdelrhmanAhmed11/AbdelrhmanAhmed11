@@ -39,7 +39,7 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 ---
 
 ## ⚙️ Skills & Tools
-**Languages:** Dart, PHP, HTML, CSS, JavaScript, SQL, C# ,Python
+**Languages:** Dart, PHP, HTML, CSS, JavaScript, SQL, C# ,Python   
 **Frameworks:** Flutter, .NET, WPF, Firebase  
 **Tools:** VS Code, Android Studio, GitHub, Figma  
 **Other:** UI/UX Design, App Navigation, Database Integration, Google Login
