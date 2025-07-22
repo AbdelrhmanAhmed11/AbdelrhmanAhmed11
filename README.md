@@ -1,16 +1,21 @@
 # 👋 Hi, I'm Abdelrahman Ahmed
 
-💼 UI/UX Designer | Mobile App Developer | Aspiring Tech Entrepreneur
+💼 UI/UX Designer | Mobile App & Web Developer | Aspiring Full-Stack Developer
 
-Welcome to my GitHub! I'm a high school student and aspiring software creator who's passionate about blending clean design with smart functionality.  
-I focus on crafting mobile apps using Flutter, designing modern user interfaces, and solving local problems with tech.
+Welcome to my GitHub! I'm a high school student and aspiring software creator who's passionate about building user-focused apps that combine clean design with practical functionality.  
+I focus on crafting mobile apps using Flutter, building dynamic websites with PHP, and solving local problems through tech.
 
 ---
 
 ## 🔧 What I Do
 
-### 🚀 Flutter Developer & UI/UX Designer
+### 🚀 Web Developer (PHP) & UI/UX Designer
 Self-Learning & Team Projects
+- Developing responsive and dynamic websites using PHP & MySQL
+- Creating clean, modern UI designs with strong user experience
+- Building full-stack mini-projects and scalable web features
+
+### 📱 Flutter Developer
 - Building cross-platform apps with beautiful and intuitive design
 - Creating seamless user flows with clean architecture
 - Collaborating with teams to bring startup ideas to life
@@ -34,25 +39,27 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 ---
 
 ## ⚙️ Skills & Tools
-**Languages:** Dart, HTML, CSS, JavaScript (basic)  
-**Frameworks:** Flutter, Firebase, .NET (WPF basics)  
-**Tools:** Figma, GitHub, Android Studio, VS Code  
+**Languages:** Dart, PHP, HTML, CSS, JavaScript, SQL, C#  
+**Frameworks:** Flutter, .NET, WPF, Firebase  
+**Tools:** VS Code, Android Studio, GitHub, Figma  
 **Other:** UI/UX Design, App Navigation, Database Integration, Google Login
 
 ---
 
 ## 🌍 Projects I'm Proud Of
 - 💊 **PillPal**  
-  A mobile app to manage medicine schedules with reminders, caregiver alerts, and medical reports.
+  A mobile app to manage medicine schedules with reminders, caregiver alerts, and medical reports — helping users stay on track with treatment.
+
 - 📍 **Parking & Transport Guide App (Idea)**  
-  An app to help Egyptians find nearby parking spots and available public transport options.
+  Designed to make commuting in Egypt easier by showing nearby parking and public transport options in real-time.
+
 - 🐾 **Lost Pet Finder Platform**  
-  A centralized system to report and find lost pets faster than posters or random posts.
+  A centralized system to help reunite lost pets with their owners — more effective than traditional methods.
 
 ---
 
 ## 📬 Let's Connect
-- 📧 Email: [abdelrahmannahmed901@gmail.com]  
+- 📧 Email: abdelrahmannahmed901@gmail.com  
 - 🧠 Vision: Tech for everyday problems + Local impact
 
 ---
