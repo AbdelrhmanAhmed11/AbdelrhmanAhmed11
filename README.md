@@ -69,6 +69,6 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 - I believe small, thoughtful apps can change lives.
 - I’m always sketching UI ideas — even on paper napkins.
 
-> “Tech is only as good as the values of the people behind it.”
+> “Design with care. Code with purpose.”
 
 Thanks for visiting! ⭐️
