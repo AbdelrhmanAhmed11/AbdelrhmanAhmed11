@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelrahman Ahmed
 
-# 💼 UI/UX Designer | Mobile App & Web Developer | Aspiring Full-Stack Developer
+### 💼 UI/UX Designer | Mobile App & Web Developer | Aspiring Full-Stack Developer
 
 Welcome to my GitHub! I'm a high school student and aspiring software creator who's passionate about building user-focused apps that combine clean design with practical functionality.  
 I focus on crafting mobile apps using Flutter, building dynamic websites with PHP, and solving local problems through tech.
