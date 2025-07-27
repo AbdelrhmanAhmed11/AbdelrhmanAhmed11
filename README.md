@@ -48,7 +48,7 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 
 ## 🌍 Projects I'm Proud Of
 - 💊 **PillPal**  
-  A mobile app to manage medicine schedules with reminders, caregiver alerts, and medical reports — helping users stay on track with treatment.
+  A mobile app to manage medicine schedules with reminders, caregiver alerts, and medical reports — helping users stay on track with treatment.(UI ONLY)
 
 - 🧠 Mental Bubbles App
 A self-reflection tool that helps users explore the roles they play in life, uncover hidden "masks," and track personal growth through deep, structured questions.
