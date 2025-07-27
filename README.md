@@ -65,9 +65,8 @@ A full-featured web platform built with PHP, HTML, CSS, and JavaScript to manage
 ---
 
 ## ✨ Fun Facts
-- I once designed a whole coffee shop inventory system in WPF!
+- I keep a list of 15+ app ideas. Not all are great — but all are mine.
 - I believe small, thoughtful apps can change lives.
-- I’m always sketching UI ideas — even on paper napkins.
 
 > “Design with care. Code with purpose.”
 
