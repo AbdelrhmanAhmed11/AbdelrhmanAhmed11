@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Abdelrahman Ahmed
 
-### 💼 UI/UX Designer | Mobile App & Web Developer | Aspiring Full-Stack Developer
+### 💼 Web Developer & Mobile App | Aspiring Full-Stack Developer
 
 Welcome to my GitHub! I'm a high school student and aspiring software creator who's passionate about building user-focused apps that combine clean design with practical functionality.  
-I focus on crafting mobile apps using Flutter, building dynamic websites with PHP, and solving local problems through tech.
+I focus on  building dynamic websites with PHP & MySql , crafting mobile apps using Flutter, and solving local problems through tech.
 
 ---
 
 ## 🔧 What I Do
 
-### 🚀 Web Developer (PHP) & UI/UX Designer
+### 🚀 Web Developer PHP & MySql
 Self-Learning & Team Projects
 - Developing responsive and dynamic websites using PHP & MySQL
 - Creating clean, modern UI designs with strong user experience
@@ -39,7 +39,7 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 ---
 
 ## ⚙️ Skills & Tools
-**Languages:** Dart, PHP, Python, HTML, CSS, JavaScript, MySQL, C#    
+**Languages:** PHP, MySQL, HTML, CSS, JavaScript, Dart, Python, C#    
 **Frameworks:** Flutter, .NET, WPF  
 **Tools:** VS Code, Android Studio, GitHub, Figma  
 **Other:** UI/UX Design, App Navigation, Database Integration
@@ -49,10 +49,7 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 ## 🌍 Projects I'm Proud Of
 - 💊 **PillPal**  
   A mobile app to manage medicine schedules with reminders, caregiver alerts, and medical reports — helping users stay on track with treatment. (UI ONLY)
-
-- 🧠 Mental Bubbles App
-A self-reflection tool that helps users explore the roles they play in life, uncover hidden "masks," and track personal growth through deep, structured questions.
-
+  
 - 👥 HR Management Website
 A full-featured web platform built with PHP, HTML, CSS, and JavaScript to manage employee records, salaries, and attendance — helping businesses streamline their HR processes efficiently.
 
