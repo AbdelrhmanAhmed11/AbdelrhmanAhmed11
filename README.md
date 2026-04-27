@@ -42,16 +42,17 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 ---
 
 ## 🌍 Projects I'm Proud Of
-- 💊 **PillPal**  
-  A mobile app to manage medicine schedules with reminders, caregiver alerts, and medical reports — helping users stay on track with treatment. (UI ONLY)
+- 🛒 Shoshinderma — A fully dynamic skincare e-commerce platform with admin panel, full CMS, and performance optimization across Desktop, Android & iOS. Every section manageable without developer involvement. (https://shoshinderma.com/)
   
-- 👥 HR Management Website
-A full-featured web platform built with PHP, HTML, CSS, and JavaScript to manage employee records, salaries, and attendance — helping businesses streamline their HR processes efficiently.
+- 🏺 The Egyptian Creativity — A full-stack antiques e-commerce platform with admin dashboard, product catalog, secure payment gateway, order tracking, and automated inventory management. (https://egyptiancreativity.shop/)
 
 ---
 
 ## 📬 Let's Connect
 - 📧 Email: abdelrahmannahmed901@gmail.com  
+
+🚀 **Explore My Portfolio:**  
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://abdelrahman-portfolio-amber.vercel.app)
 - 🧠 Vision: Tech for everyday problems + Local impact
 
 ---
