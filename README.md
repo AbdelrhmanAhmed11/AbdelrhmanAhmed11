@@ -20,11 +20,6 @@ Self-Learning & Team Projects
 - Creating seamless user flows with clean architecture
 - Collaborating with teams to bring startup ideas to life
 
-### 🧠 Educator & Mentor (in progress!)
-- Helping peers understand code logic and tools
-- Sharing knowledge in simple and visual ways
-- Always curious and learning from others
-
 ### 🧩 Problem Solver
 - Turning real-life frustrations into software solutions
 - Focusing on social impact and daily convenience
