@@ -36,7 +36,7 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 ## ⚙️ Skills & Tools
 **Languages:** PHP, MySQL, HTML, CSS, JavaScript, Dart, Python, C#    
 **Frameworks:** Flutter, .NET, WPF  
-**Tools:** VS Code, Android Studio, GitHub, Figma  
+**Tools:** VS Code, Android Studio, GitHub, Figma , AI Agents  
 **Other:** UI/UX Design, App Navigation, Database Integration
 
 ---
@@ -50,9 +50,8 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 
 ## 📬 Let's Connect
 - 📧 Email: abdelrahmannahmed901@gmail.com  
-
-🚀 **Explore My Portfolio:**  
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://abdelrahman-portfolio-amber.vercel.app)
+- 🌐 Portfolio: https://abdelrahman-portfolio-amber.vercel.app
+- 💼 LinkedIn: www.linkedin.com/in/abdelrhman-ahmeds
 - 🧠 Vision: Tech for everyday problems + Local impact
 
 ---
