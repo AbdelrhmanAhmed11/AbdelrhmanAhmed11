@@ -35,7 +35,7 @@ I dream of launching meaningful tech products in Egypt and across Africa — fro
 
 ## ⚙️ Skills & Tools
 **Languages:** PHP, MySQL, HTML, CSS, JavaScript, Dart, Python, C#    
-**Frameworks:** Flutter, .NET, WPF  
+**Frameworks:** Flutter, .NET
 **Tools:** VS Code, Android Studio, GitHub, Figma , AI Agents  
 **Other:** UI/UX Design, App Navigation, Database Integration
 
