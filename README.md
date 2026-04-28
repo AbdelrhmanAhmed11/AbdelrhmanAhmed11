@@ -9,7 +9,7 @@ I focus on  building dynamic websites with PHP & MySql , crafting mobile apps us
 
 ## 🔧 What I Do
 
-### 🚀 Web Developer PHP & MySql
+### 🚀 Web Developer PHP & MySQL
 Self-Learning & Team Projects
 - Developing responsive and dynamic websites using PHP & MySQL
 - Creating clean, modern UI designs with strong user experience
