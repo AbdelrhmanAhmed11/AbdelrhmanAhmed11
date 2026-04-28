@@ -3,7 +3,7 @@
 ### 💼 Web Developer & Mobile App | Aspiring Full-Stack Developer
 
 Welcome to my GitHub! I'm a high school student and aspiring software creator who's passionate about building user-focused apps that combine clean design with practical functionality.  
-I focus on  building dynamic websites with PHP & MySql , crafting mobile apps using Flutter, and solving local problems through tech.
+I focus on  building dynamic websites with PHP & MySQL , crafting mobile apps using Flutter, and solving local problems through tech.
 
 ---
 
