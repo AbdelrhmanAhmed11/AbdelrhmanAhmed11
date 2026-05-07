@@ -13,7 +13,7 @@ I focus on  building dynamic websites with PHP & MySQL , crafting mobile apps us
 Self-Learning & Team Projects
 - Developing responsive and dynamic websites using PHP & MySQL
 - Creating clean, modern UI designs with strong user experience
-- Building full-stack mini-projects and scalable web features
+- Building full-stack projects and scalable web features
 
 ### 📱 Flutter Developer
 - Building cross-platform apps with beautiful and intuitive design
