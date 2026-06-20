@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Abdelrahman Ahmed
 
-### 💻 Full Stack Developer | Web · Desktop · Mobile
+### 💻 Full Stack Developer | Web · Mobile
 
-Building scalable systems — POS platforms, HR systems, e-commerce solutions, and real-time tracking apps — with PHP, C#, Flutter, and Python.
+Building scalable web systems — e-commerce platforms, HR systems, financial management tools, and real-time tracking applications — with PHP, C# ASP.NET, Flutter, and Python.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelrahman-portfolio-amber.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-ahmeds)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmannahmed901@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdelrahmannahmed901@gmail.com)
 
 </div>
 
@@ -16,15 +16,14 @@ Building scalable systems — POS platforms, HR systems, e-commerce solutions, a
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at **ELSEWEDY IATS** (Expected Graduation: 2026) and a Full Stack Developer with hands-on experience delivering **10+ real-world applications**. I'm a **Silver Medalist at EFPC 2024** (7th Place) and an **ICPC Egyptian Teams Qualifier** through ECPC Teens.
+I'm a Computer Science graduate of **ELSEWEDY IATS** (Graduated 2026) and a Full Stack Developer with hands-on experience delivering **+5 real-world projects**. I'm a **Silver Medalist at EFPC 2024** (7th Place) and an **ICPC Egyptian Teams Qualifier** through ECPC Teens.
 
-I work across the stack — from dynamic PHP/MySQL web platforms to desktop POS systems in C# WPF, to cross-platform mobile apps in Flutter — applying OOP principles, MVC architecture, and clean version control throughout every project.
+I work across the stack — from dynamic PHP/MySQL web platforms to C# ASP.NET applications, with a focus on full-stack web development, plus cross-platform mobile apps in Flutter — applying OOP principles, MVC architecture, and clean version control throughout every project.
 
-- 🌍 Based in Giza, Egypt
+- 🌍 Based in Cairo, Egypt
 - 🎯 Currently freelancing as a Full Stack Developer (since April 2024)
 - 🏆 Competitive programmer — EFPC, ECPC, ICPC qualifiers
 - 📚 Always learning — recent focus on AI agents, API integration, and cloud deployment
-- 💬 Ask me about PHP/MySQL architecture, REST APIs, or Flutter UI design
 
 ---
 
@@ -39,23 +38,24 @@ I work across the stack — from dynamic PHP/MySQL web platforms to desktop POS 
 **Backend**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Database**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Mobile / Desktop**
+**Mobile**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![WPF](https://img.shields.io/badge/-C%23%20WPF-239120?style=flat-square&logo=windows&logoColor=white)
 
 **Tools & Deployment**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![MonsterASP.NET](https://img.shields.io/badge/-MonsterASP.NET-2D2D2D?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
@@ -73,10 +73,6 @@ Full-stack e-commerce platform for Egyptian antiques — admin dashboard, produc
 **React · C# ASP.NET Web API · SQL Server** — *School Capstone Project*
 Web-based school financial management system. Built the backend with ASP.NET Core and SQL Server, integrated with a React frontend. Includes cash disbursement workflows, approvals, document management, role-based access, and transparency dashboards.
 
-### ☕ Coffee Grinder
-**C# · WPF · MySQL**
-Desktop POS system for a coffee shop — sales, inventory, and order management with automated alerts, an analytics dashboard, and MVVM architecture. [View Project](https://drive.google.com/drive/folders/1X3wqS9UbtdfnKVg5GXBPNYYIRYcL74To)
-
 ### 💊 PillPal
 **Flutter · Dart** — *UI/UX Prototype*
 Medication management app prototype with reminders, emergency contacts, and interaction warnings — designed for a seamless cross-platform experience on iOS & Android. [View Design](https://drive.google.com/file/d/1gjWRHIsCcCelvppRmc5x463RMPPxfPb4)
@@ -89,7 +85,7 @@ Medication management app prototype with reminders, emergency contacts, and inte
 - 🎖️ **ECPC Teens 2024** — ICPC Egyptian Teams Qualifier
 - 🏅 **DECI LV2** — Best Financial Plan Award &nbsp;|&nbsp; **DECI LV1** — Best Presentation Award
 - 🚀 NASA Space Apps Challenge Cairo 2024 &nbsp;|&nbsp; ISEF Participant &nbsp;|&nbsp; UGRF 2024 — Certificate of Efforts
-- 🤖 Alamein Robotics Championship &nbsp;|&nbsp; Digitopia & Start Up Teens Competitor
+- 🎯 Digitopia & Start Up Teens Competitor
 
 ---
 
