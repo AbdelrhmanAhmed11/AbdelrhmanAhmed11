@@ -93,8 +93,6 @@ Medication management app prototype with reminders, emergency contacts, and inte
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanAhmed11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAhmed11&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanAhmed11&theme=tokyonight&hide_border=true)
