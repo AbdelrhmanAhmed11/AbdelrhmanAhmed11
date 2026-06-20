@@ -74,7 +74,7 @@ Full-stack e-commerce platform for Egyptian antiques — admin dashboard, produc
 Web-based school financial management system. Built the backend with ASP.NET Core and SQL Server, integrated with a React frontend. Includes cash disbursement workflows, approvals, document management, role-based access, and transparency dashboards.
 
 ### ☕ Coffee Grinder
-**C# · WPF · MySQL**
+**C# · WPF · SQL Server**
 Desktop POS system for a coffee shop — sales, inventory, and order management with automated alerts, an analytics dashboard, and MVVM architecture. [View Project](https://drive.google.com/drive/folders/1X3wqS9UbtdfnKVg5GXBPNYYIRYcL74To)
 
 ### 💊 PillPal
