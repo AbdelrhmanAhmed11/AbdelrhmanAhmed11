@@ -111,7 +111,7 @@ Medication management app prototype with reminders, emergency contacts, and inte
 
 <div align="center">
 
-📞 **Phone:** 01151835994 &nbsp;|&nbsp; 📧 **Email:** [abdelrahmannahmed901@gmail.com](mailto:abdelrahmannahmed901@gmail.com)
+📞 **Phone:** 01151835994 &nbsp;|&nbsp; [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdelrahmannahmed901@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdelrahman--portfolio-orange?style=flat-square&logo=vercel)](https://abdelrahman-portfolio-amber.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrhman--ahmeds-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdelrhman-ahmeds)
