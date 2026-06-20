@@ -18,7 +18,7 @@ Building scalable web systems — e-commerce platforms, HR systems, financial ma
 
 I'm a Computer Science graduate of **ELSEWEDY IATS** (Graduated 2026) and a Full Stack Developer with hands-on experience delivering **+5 real-world projects**. I'm a **Silver Medalist at EFPC 2024** (7th Place) and an **ICPC Egyptian Teams Qualifier** through ECPC Teens.
 
-I work across the stack — from dynamic PHP/MySQL web platforms to C# ASP.NET applications, with a focus on full-stack web development, plus cross-platform mobile apps in Flutter — applying OOP principles, MVC architecture, and clean version control throughout every project.
+I work across the stack — from dynamic PHP/MySQL web platforms to C# ASP.NET Projects, with a focus on full-stack web development, plus cross-platform mobile apps in Flutter — applying OOP principles, MVC architecture, and clean version control throughout every project.
 
 - 🌍 Based in Cairo, Egypt
 - 🎯 Currently freelancing as a Full Stack Developer (since April 2024)
