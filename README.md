@@ -1,65 +1,125 @@
+<div align="center">
+
 # 👋 Hi, I'm Abdelrahman Ahmed
 
-### 💼 Web Developer & Mobile App | Aspiring Full-Stack Developer
+### 💻 Full Stack Developer | Web · Desktop · Mobile
 
-Welcome to my GitHub! I'm a high school student and aspiring software creator who's passionate about building user-focused apps that combine clean design with practical functionality.  
-I focus on  building dynamic websites with PHP & MySQL , crafting mobile apps using Flutter, and solving local problems through tech.
+Building scalable systems — POS platforms, HR systems, e-commerce solutions, and real-time tracking apps — with PHP, C#, Flutter, and Python.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelrahman-portfolio-amber.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-ahmeds)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmannahmed901@gmail.com)
 
-## 🔧 What I Do
-
-### 🚀 Web Developer PHP & MySQL
-Self-Learning & Team Projects
-- Developing responsive and dynamic websites using PHP & MySQL
-- Creating clean, modern UI designs with strong user experience
-- Building full-stack projects and scalable web features
-
-### 📱 Flutter Developer
-- Building cross-platform apps with beautiful and intuitive design
-- Creating seamless user flows with clean architecture
-- Collaborating with teams to bring startup ideas to life
-
-### 🧩 Problem Solver
-- Turning real-life frustrations into software solutions
-- Focusing on social impact and daily convenience
-- Balancing practicality with creativity
+</div>
 
 ---
 
-## 💡 Vision
-I dream of launching meaningful tech products in Egypt and across Africa — from health apps to smart city solutions — while keeping empathy and simplicity at the core.  
-> “Technology must serve people – not replace them.”
+## 🧑‍💻 About Me
+
+I'm a Computer Science student at **ELSEWEDY IATS** (Expected Graduation: 2026) and a Full Stack Developer with hands-on experience delivering **10+ real-world applications**. I'm a **Silver Medalist at EFPC 2024** (7th Place) and an **ICPC Egyptian Teams Qualifier** through ECPC Teens.
+
+I work across the stack — from dynamic PHP/MySQL web platforms to desktop POS systems in C# WPF, to cross-platform mobile apps in Flutter — applying OOP principles, MVC architecture, and clean version control throughout every project.
+
+- 🌍 Based in Giza, Egypt
+- 🎯 Currently freelancing as a Full Stack Developer (since April 2024)
+- 🏆 Competitive programmer — EFPC, ECPC, ICPC qualifiers
+- 📚 Always learning — recent focus on AI agents, API integration, and cloud deployment
+- 💬 Ask me about PHP/MySQL architecture, REST APIs, or Flutter UI design
 
 ---
 
-## ⚙️ Skills & Tools
-**Languages:** PHP, MySQL, HTML, CSS, JavaScript, Dart, Python, C#    
-**Frameworks:** Flutter, .NET
-**Tools:** VS Code, Android Studio, GitHub, Figma , AI Agents  
-**Other:** UI/UX Design, App Navigation, Database Integration
+## 🛠️ Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Mobile / Desktop**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![WPF](https://img.shields.io/badge/-C%23%20WPF-239120?style=flat-square&logo=windows&logoColor=white)
+
+**Tools & Deployment**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 ---
 
-## 🌍 Projects I'm Proud Of
-- 🛒 Shoshinderma — A fully dynamic skincare e-commerce platform with admin panel, full CMS, and performance optimization across Desktop, Android & iOS. Every section manageable without developer involvement. (https://shoshinderma.com/)
-  
-- 🏺 The Egyptian Creativity — A full-stack antiques e-commerce platform with admin dashboard, product catalog, secure payment gateway, order tracking, and automated inventory management. (https://egyptiancreativity.shop/)
+## 🚀 Featured Projects
+
+### 🛒 [Shoshinderma](https://shoshinderma.com/)
+**PHP · MySQL · HTML · CSS · JavaScript**
+Fully dynamic skincare e-commerce platform — every page editable via a custom admin panel with zero developer involvement. Built with full CMS, REST API integration, JSON data handling, and MVC structure. Site-wide lazy loading, on-demand rendering, and image/video compression across Desktop, Android & iOS. Deployed via cPanel.
+
+### 🏺 [The Egyptian Creativity](https://egyptiancreativity.shop/)
+**PHP · MySQL · HTML · CSS · JavaScript**
+Full-stack e-commerce platform for Egyptian antiques — admin dashboard, product catalog, advanced search, cart, secure payment gateway, order tracking, and automated inventory alerts.
+
+### 💰 [Financials Hub](https://financials-hub-five.vercel.app/)
+**React · C# ASP.NET Web API · SQL Server** — *School Capstone Project*
+Web-based school financial management system. Built the backend with ASP.NET Core and SQL Server, integrated with a React frontend. Includes cash disbursement workflows, approvals, document management, role-based access, and transparency dashboards.
+
+### ☕ Coffee Grinder
+**C# · WPF · MySQL**
+Desktop POS system for a coffee shop — sales, inventory, and order management with automated alerts, an analytics dashboard, and MVVM architecture. [View Project](https://drive.google.com/drive/folders/1X3wqS9UbtdfnKVg5GXBPNYYIRYcL74To)
+
+### 💊 PillPal
+**Flutter · Dart** — *UI/UX Prototype*
+Medication management app prototype with reminders, emergency contacts, and interaction warnings — designed for a seamless cross-platform experience on iOS & Android. [View Design](https://drive.google.com/file/d/1gjWRHIsCcCelvppRmc5x463RMPPxfPb4)
+
+---
+
+## 🏆 Achievements & Competitive Programming
+
+- 🥈 **EFPC 2024** — 7th Place & Silver Medal
+- 🎖️ **ECPC Teens 2024** — ICPC Egyptian Teams Qualifier
+- 🏅 **DECI LV2** — Best Financial Plan Award &nbsp;|&nbsp; **DECI LV1** — Best Presentation Award
+- 🚀 NASA Space Apps Challenge Cairo 2024 &nbsp;|&nbsp; ISEF Participant &nbsp;|&nbsp; UGRF 2024 — Certificate of Efforts
+- 🤖 Alamein Robotics Championship &nbsp;|&nbsp; Digitopia & Start Up Teens Competitor
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanAhmed11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAhmed11&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanAhmed11&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelrhmanAhmed11&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
 ## 📬 Let's Connect
-- 📧 Email: abdelrahmannahmed901@gmail.com  
-- 🌐 Portfolio: https://abdelrahman-portfolio-amber.vercel.app
-- 💼 LinkedIn: www.linkedin.com/in/abdelrhman-ahmeds
-- 🧠 Vision: Tech for everyday problems + Local impact
 
----
+<div align="center">
 
-## ✨ Fun Facts
-- I keep a list of 15+ app ideas. Not all are great — but all are mine.
-- I believe small, thoughtful apps can change lives.
+📞 **Phone:** 01151835994 &nbsp;|&nbsp; 📧 **Email:** [abdelrahmannahmed901@gmail.com](mailto:abdelrahmannahmed901@gmail.com)
 
-> “Design with care. Code with purpose.”
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdelrahman--portfolio-orange?style=flat-square&logo=vercel)](https://abdelrahman-portfolio-amber.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrhman--ahmeds-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdelrhman-ahmeds)
 
-Thanks for visiting! ⭐️
+> "Design with care. Code with purpose."
+
+⭐️ Thanks for visiting my profile!
+
+</div>
