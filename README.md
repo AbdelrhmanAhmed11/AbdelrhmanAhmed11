@@ -61,10 +61,6 @@ I work across the stack — from dynamic PHP/MySQL web platforms to C# ASP.NET P
 
 ## 🚀 Featured Projects
 
-### 🛒 [Shoshinderma](https://shoshinderma.com/)
-**PHP · MySQL · HTML · CSS · JavaScript**
-Fully dynamic skincare e-commerce platform — every page editable via a custom admin panel with zero developer involvement. Built with full CMS, REST API integration, JSON data handling, and MVC structure. Site-wide lazy loading, on-demand rendering, and image/video compression across Desktop, Android & iOS. Deployed via cPanel.
-
 ### 🏺 [The Egyptian Creativity](https://egyptiancreativity.shop/)
 **PHP · MySQL · HTML · CSS · JavaScript**
 Full-stack e-commerce platform for Egyptian antiques — admin dashboard, product catalog, advanced search, cart, secure payment gateway, order tracking, and automated inventory alerts.
